@@ -18,5 +18,6 @@ O2switch <- function(par,N,...){
     #evaluate all terms except aerobic terms
     #find largest non-aerobic term X
     #find O2 where X - R(O2) = 0
+    #Greg is super annoying
 }
 
